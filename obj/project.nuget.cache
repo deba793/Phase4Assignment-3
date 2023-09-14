@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2v8kNTaKtvdyLrUFGG9Xm/ESfcbMXldum2c+Vp8j3GECXV7pOWEXdFGvuFaODN2LFSAkJxyujVqeUF8d+nlzLw==",
+  "success": true,
+  "projectFilePath": "E:\\Phase-4\\Day-4-13-09-23\\Phase4Assignment-3\\Phase4Assignment-3\\Phase4Assignment-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
